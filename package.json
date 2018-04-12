@@ -1,0 +1,25 @@
+{
+  "name": "api-imagenes",
+  "version": "1.0.0",
+  "description": "Api de imagenes",
+  "main": "image.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "image-steam": "^0.43.0",
+    "sharp": "^0.20.1",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.geainternacional.com:Ecuador/Api-Imagenes.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Jimmy Banchon",
+  "license": "ISC"
+}
